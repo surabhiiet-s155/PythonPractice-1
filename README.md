@@ -1,6 +1,6 @@
 # Python Learning 🐍
 
-Hi, I'm Vedhavathi 👋  
+Hi, I'm surabhi 👋  
 Engineering student | Learning Python step by step  
 
 ## Day 1 – Python Basics
