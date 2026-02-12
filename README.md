@@ -40,6 +40,18 @@ Hello, I am Surabhi.
 - Multiple of 7 Check
 
 ---
+## 📅 Day 3 – Lists & Tuples
+
+### Topics Learned:
+- Lists in Python
+- List Slicing
+- List Methods (append, insert, sort, reverse, remove, pop)
+- Tuples in Python
+- Tuple Methods (count, index)
+
+📌 Practiced list operations and tuple basics.
+
+---
 
 ## 🎯 Goal
 To master Python fundamentals through daily coding practice and maintain GitHub consistency.
