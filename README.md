@@ -52,6 +52,18 @@ Hello, I am Surabhi.
 📌 Practiced list operations and tuple basics.
 
 ---
+## 📅 Day 4 – Dictionaries & Sets
+
+### Topics Learned:
+- Dictionary basics
+- Nested dictionary
+- Dictionary methods (keys, values, items, update, get)
+- Set basics
+- Set methods (add, remove, clear, pop, union, intersection)
+
+📌 Practiced dictionary and set operations.
+
+---
 
 ## 🎯 Goal
 To master Python fundamentals through daily coding practice and maintain GitHub consistency.
