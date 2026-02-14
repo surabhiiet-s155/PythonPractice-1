@@ -64,6 +64,19 @@ Hello, I am Surabhi.
 📌 Practiced dictionary and set operations.
 
 ---
+## 📅 Day 5 – Loops in Python
+
+### Topics Learned:
+- While Loop
+- For Loop
+- Range Function
+- Break Statement
+- Continue Statement
+- Loop Practice Programs
+
+📌 Practiced loop based programs and number patterns.
+
+---
 
 ## 🎯 Goal
 To master Python fundamentals through daily coding practice and maintain GitHub consistency.
