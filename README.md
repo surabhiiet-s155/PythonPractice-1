@@ -77,6 +77,18 @@ Hello, I am Surabhi.
 📌 Practiced loop based programs and number patterns.
 
 ---
+## 📅 Day 6 – Functions & Recursion
+
+### Topics Learned:
+- Functions in Python
+- Built-in Functions
+- User Defined Functions
+- Default Parameters
+- Recursion Basics
+
+📌 Practiced function creation and recursive programs.
+
+---
 
 ## 🎯 Goal
 To master Python fundamentals through daily coding practice and maintain GitHub consistency.
